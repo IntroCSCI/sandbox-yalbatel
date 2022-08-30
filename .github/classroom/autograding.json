@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Does it compile",
+      "setup": "",
+      "run": "g++ main.cpp --std=c++17",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    }
+  ]
+}
